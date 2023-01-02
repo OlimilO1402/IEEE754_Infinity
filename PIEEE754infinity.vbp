@@ -1,0 +1,45 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\SysWow64\stdole2.tlb#OLE Automation
+Form=Forms\Form1.frm
+Module=MIEEE754; Modules\MIEEE754.bas
+Module=MMain; Modules\MMain.bas
+ResFile32="Resources\MyRes.res"
+IconForm="FMain"
+Startup="Sub Main"
+HelpFile=""
+Title="PIEEE754infinity"
+ExeName32="IEEE754Infinity.exe"
+Command32=""
+Name="PIEEE754Infinity"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=2023
+MinorVer=1
+RevisionVer=2
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="MBO-Ing.com"
+VersionFileDescription="Functions for working with special numbers like e.g. infinity, defined in the IEEE-754-specification for floating point numbers e.g. Single or Double."
+VersionLegalCopyright="MBO-Ing.com"
+VersionProductName="IEEE754Infinity"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=-1
+CodeViewDebugInfo=0
+NoAliasing=-1
+BoundsCheck=-1
+OverflowCheck=-1
+FlPointCheck=-1
+FDIVCheck=-1
+UnroundedFP=-1
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[RVB]
+DeleteClass1=Form1
