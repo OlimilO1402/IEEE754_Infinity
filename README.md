@@ -9,7 +9,7 @@
 
 Project started in dec 2011.  
 Sometimes it is helpful to check if a number has reached any datatype specific boundaries, in order to convert it to the appropriate string.
-This repo shows that infinity and some other special numbers are already definied in the floating point specifications aka IEEE-754, and how to deal with it in VBA/VBC
+This repo shows that infinity and some other special numbers are already defined in the floating point specifications (aka IEEE754), and how to deal with it in VBA/VBC.
 
 Links:  
 [IEEE-754-2019](https://ieeexplore.ieee.org/document/8766229)  
